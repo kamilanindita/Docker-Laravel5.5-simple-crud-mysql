@@ -2,7 +2,7 @@
 ___
 
 <br>
-# Instalasi
+## Instalasi
 
 #### 1. Clone <a href="https://github.com/kamilanindita/PHP-Laravel5.5-simple-crud-mysql-eloquent-orm">Laravel5.5-simple-crud-mysql-eloquent-orm</a>
 
