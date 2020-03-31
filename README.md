@@ -10,13 +10,13 @@ ___
 #### 3. Sesuaikan environment nya
 
 #### 4. RUN dengan perintah docker-compose up -d
-![Image of Menambahkan Perangkat](https://drive.google.com/uc?export=view&id=1RBEamxwfkNpz3zbjdAYduCCX8KG8TGEo)
+![Image of RUN Docker Compose](https://drive.google.com/uc?export=view&id=1RBEamxwfkNpz3zbjdAYduCCX8KG8TGEo)
 
 #### 5. Import database
-![Image of Detail Perangkat](https://drive.google.com/uc?export=view&id=1lyqlrO2IVIAYAjjuASVqWPio7FNA2osK)
+![Image of Import DB](https://drive.google.com/uc?export=view&id=1lyqlrO2IVIAYAjjuASVqWPio7FNA2osK)
 
 #### 6. Website
-![Image of Charts](https://drive.google.com/uc?export=view&id=1pY-Lkx5oZfNaIgNqWq_k6ufHIQqaxiJt)
+![Image of Website](https://drive.google.com/uc?export=view&id=1pY-Lkx5oZfNaIgNqWq_k6ufHIQqaxiJt)
 
 ___
 
